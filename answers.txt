@@ -1,0 +1,17 @@
+What is a gitignore file and what should it include for a Java project?
+
+- gitignore files allow you to automatically prevent certain file types from being committed 
+
+What does fast-forward in Git mean?
+
+- when the target has gone beyond the source and there is a linear path from the source to the 
+target, git just moves the pointer for source ahead to target instead of creating another merge 
+commit. 
+
+Why should you have different branches?
+
+- different branches allow for multiple things to be worked on a the same time 
+
+In a project how many remote Git repositories do you usually have?
+
+- a project can have one or more remote repos 
